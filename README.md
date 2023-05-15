@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I learned how to speak english by taking free courses online 
 
 
-# Hi there 👋, I am Salman Ahmad Khan <img src='https://github.com/fpsapc/fpsapc/blob/main/cup.gif' width='50'/><br>
+# Hi there 👋, I am Benjamin <img src='https://github.com/fpsapc/fpsapc/blob/main/cup.gif' width='50'/><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+03+months+of;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
 <br><img src="./line.gif">
 <div align="center"> 
@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 <h2 align="center">📞 Contact Me</h2>
 <h3 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, Twitter or visit my portfolio.</i></h3><br><br>
 <div align="center">
-<a href='https://github.com/fpsapc'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &emsp;&emsp;
-<a href='https://www.linkedin.com/in/salman-ahmad1987/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>&emsp;&emsp;
-<a href='https://www.facebook.com/salmansami_a@yahoo.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>&emsp;&emsp;
-<a href='https://twitter.com/salmanahmadkhan1987'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>&emsp;&emsp;
-<a href='https://fpsapc.github.io/MicroverseStudentProject1'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skillshare.svg' alt='website' height='40'></a>
+<a href='https://github.com/benja27'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &emsp;&emsp;
+<a href='https://www.linkedin.com/in/benja26/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>&emsp;&emsp;
+
+
+
 </div>
 
