@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋, I am Benjamin <img src='https://github.com/fpsapc/fpsapc/blob/main/cup.gif' width='50'/><br>
-<br><img src="./line.gif">
-<div align="center"> 
-<img src= https://github-readme-stats.vercel.app/api?username=fpsapc width='699' /><br><br>
-<img src="./line.gif">
-<img src="https://streak-stats.demolab.com/?user=fpsapc" width='700'/> 
-</div><br><br><br>
-<img src="./line.gif">
-
-
-
-
 
 <h4 align="center">Frontend</h4>
 <div align="center">  
