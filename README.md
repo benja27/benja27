@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋, I am Benjamin <img src='https://github.com/fpsapc/fpsapc/blob/main/cup.gif' width='50'/><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+03+months+of;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
 <br><img src="./line.gif">
 <div align="center"> 
 <img src= https://github-readme-stats.vercel.app/api?username=fpsapc width='699' /><br><br>
