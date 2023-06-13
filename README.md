@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-  <img src='https://github.com/fpsapc/fpsapc/blob/main/coding.gif' />  
-</div> <img src="./line.gif">
-
-<h2 align="center"><img src="./bulb.gif" width='40'>  My Skill Set  <img src="./bulb.gif" width='40'><h2>  
-<table><tr><td valign="top" width="33%">
 
 <h4 align="center">Frontend</h4>
 <div align="center">  
